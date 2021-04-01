@@ -9,7 +9,7 @@ I will update my story, study contents and toy-project.
 
 If you have any qurious, please click following Link.
 
-Click this => [https://github.com/Leo-ground][https://github.com/Leo-ground123] 
+Click this => [https://github.com/Leo-ground][https://github.com/Leo-ground] 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
