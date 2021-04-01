@@ -20,7 +20,7 @@ remote_theme : mmistakes/minimal-mistakes
 locale                   : "en-US"
 title                    : "Leo-ground"
 title_separator          : "-"
-subtitle                 : "개발자"# site tagline that appears below site title in masthead
+subtitle                 : "#Java #Spring #JavaScript"
 name                     : "Lee Ji Yun"
 description              : "Leo-ground website."
 url                      : "https://Leo-ground.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -28,7 +28,7 @@ baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : Leo-ground!!# overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : Leo-ground!!
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -97,14 +97,14 @@ analytics:
 # Site Author
 author:
   name             : "Lee Ji Yun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar/avatar-photo.jpg"
   bio              : "I am an **amazing** Developer."
   location         : "South Korea"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:piscesljy@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -116,7 +116,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Leo-ground/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
