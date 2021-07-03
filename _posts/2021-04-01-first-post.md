@@ -11,6 +11,21 @@ If you have any qurious, please click following Link.
 
 Click this => [github](https://github.com/Leo-ground) 
 
+
+ようこそ！！
+
+私のブログに来てくれてありがとうございます。
+
+ここに私の話と勉強の内容を書く予定です。
+
+何か質問とか気になる事が有れば下記のリンクをクリックお願いします。
+
+右側クリック => [github](https://github.com/Leo-ground) 
+
+
+
+<!--
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+-->
