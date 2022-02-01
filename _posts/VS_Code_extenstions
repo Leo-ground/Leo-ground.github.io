@@ -1,0 +1,39 @@
+---
+title: "VS Code_extenstions"
+date: 2021-02-01 
+categories: Editor
+---
+
+## VS Code 설정
+
+- 단축키 확인 및 실행: Setting-keyboard short-cut 또는 Command Palette이용(추천 / Mac: cmd+shift+p , Windows: ctrl+shift+p, 앞글자만 검색가능)
+- 
+
+## VS Code 편리한 extensions
+1. Material Theme (색상 변환)
+2. Material Icon Theme (아이콘 변경)
+3. Prettier-Code formatter(Setting 필요: cmd+, / ctrl+, setting 입력 -> save검색 format on save 체크, prettier검색 Tab Width 2로 변경, prettier quote검색 Quote Style  single로변경)
+4. Bracket Pair Colorizer (괄호 표시)
+5. Indent Rainbow(들여쓰기 부분 색깔표시)
+6. Auto Rename Tag (테그 수정시 자동변경)
+7. CSS peek (CSS파일로 바로 이동 Cmd+클릭/Ctrl+클릭)
+8. HTML CSS Support (HTML에서 CSS자동완성)
+9. Live Server (변경사항 자동로딩, 커맨드 팔레트 에서 Live Server open)
+10. Markdown Preview(커맨드 팔레트 에서 markdown preview선택)
+11. jsfiddle.net , jsbin.com, codesandbox.com (간단하게 수정사항 확인)
+12. HTML to CSS autocompletion (CSS에서 HTML 정의 클래스 자동완성)
+13. Emmet(기본제공)
+- HTML양식 !+tab
+- div tab
+- div.class
+- div#id
+- 기본 div (.class)
+- #id
+- 자식 (div>ul>li)
+- 형제 (div>ul+ol)
+- 반복 (ul>li*5)
+- 중간에 삽입(div>ul>li^ol)
+- 그룹화(div>(header>ul>li*2>a)+fotter>p)
+- 테그안에 text삽입 (p{hello})
+- 자동 숫자입력 (p.class${item $})
+- dummy용 테스트 삽입, 숫자로 길이조절가능 (p>lorem숫자)
