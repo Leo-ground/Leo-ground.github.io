@@ -1,0 +1,119 @@
+---
+title: "CSS_basic2"
+date: 2021-02-01 
+categories: CSS
+---
+
+## CSS_Basic2
+- \#1 의미 정의, 선택자(selectors),스타일링
+- \#2 헷갈리는 컨셉
+- \#3 CSS 꽃: Flex box
+- 실습 HTML
+```HTML
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <!--Block-level-->
+        <!--Block-level은 내용이 없으면 크기속성이 있어야 표시 가능-->
+        <div></div>
+        <div></div>
+        <div></div>
+
+        <!--Inline-level-->
+        <!--Inline-level은 내용이 있어야 표시가 가능-->
+        <span>1</span>
+        <span>2</span>
+        <span>3</span>
+    </body>
+    </html>
+```
+
+4. 헷갈리는 컨셉
+    - Block 과 Inline
+        ```CSS
+            div, span {
+                width: 80px;
+                height: 80px;
+                margin: 20px;
+            }
+
+            div {
+                background: red;
+                display: inline-block;
+            }
+
+            span {
+                background: Blue;
+                display:block;
+            }
+        ```
+        - Block
+            - 공간이 있어도 한 row에 한 tag
+            - inline-block; 추가시 inline처럼 한 row에 전부 표현
+            - inline; 추가시 inline처럼 내용이 없으면 안보임(크기설정 무시)
+        - Inline
+            - 공간이 많으면 한 row에 표현
+            - display:block; 추가시 블럭처럼 한row에 한 tag로 표현
+    - Position (실습을 위해 HTML 다수의 DIV 작성)
+        - HTML
+            ```HTML
+                <!DOCTYPE html>
+                <html lang="en">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>Document</title>
+                </head>
+                <body>
+                    <article class="container">
+                        <div class="box">I'm Box</div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </article>    
+                </body>
+                </html>
+            ```
+
+        - CSS
+            ```CSS
+                div{
+                    width: 50px;
+                    height: 50px;
+                    margin-bottom: 20px;
+                    background: red;
+                }
+
+                .container{
+                    background: yellow;
+                    left: 20px;
+                    top: 20px;
+                    position: relative;
+                    //position: static; 이 default
+                    //static의미: HTML에 정의된 순서대로 자연스럽게 보여줌
+                    //relative의미: static의 위치에서 설정값만큼 이동
+                }
+
+                .box{
+                    background: blue;
+                    eft: 20px;
+                    top: 20px;
+                    position: absolute;
+                    //absolute의미: 아이템이 담겨있는 박스를 기준으로함
+                     //fixed의미: window를 기준으로함 (박스 밖으로나옴)
+                      //sticky의미: 원래자리에 고정(스크롤해도 고정)
+                }
+        - 호환성여부확인: mdn 이외, caniuse.com
