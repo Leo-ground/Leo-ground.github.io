@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : "Lee Ji Yun"
-  avatar           : "/images/avatar/buda.jpg"
+  avatar           : "image/avatar/buda.jpg"
   bio              : "I am an **connected** Developer."
   location         : "South Korea"
   email            : 
