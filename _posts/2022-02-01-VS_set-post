@@ -8,7 +8,6 @@ categories: tips
 ## VS Code 설정
 
 - 단축키 확인 및 실행: Setting-keyboard short-cut 또는 Command Palette이용(추천 / Mac: cmd+shift+p , Windows: ctrl+shift+p, 앞글자만 검색가능)
-- 
 
 ## VS Code 편리한 extensions
 1. Material Theme (색상 변환)
