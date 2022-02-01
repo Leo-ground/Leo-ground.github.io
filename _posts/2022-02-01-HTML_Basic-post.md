@@ -62,7 +62,7 @@ categories: HTML
   
   - input : 사용자 입력을 받음, attribute를 통해 명시적으로 그룹화
    
-  ```
+    ```
     <label for="input_name">Name:</label>
     <input id="input_name" type="text">
     ```
