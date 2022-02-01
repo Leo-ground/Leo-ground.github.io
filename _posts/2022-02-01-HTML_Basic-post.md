@@ -33,17 +33,21 @@ categories: HTML
     ```
     href: 주소, target: 창을 여는 방법
   -<p>,<b>,<span>: Inline tag 예시: 하나의 라인에 표현이 가능함
+  
     ```
     <p>This is a sentence. That is...</p>
     <p>This is a sentence. <b>That</b> is...</p>
     <p>This is a sentence. <span>That</span> is...</p>
     ```
   -<div>사용시 라인이 넘어가게 된다
+    
     ```
     <p>This is a sentence. <div>That</div> is...</p>
     ```
+  
   -ol,ul,li: mdn에서 해당 태그의 속성 사용방법을 알 수있다  
-    ```
+   
+   ```
     <ol type="i" reversed>
       <li>1</li>
       <li>2</li>
@@ -55,11 +59,14 @@ categories: HTML
      <li></li>
     </ul>
    ``` 
+  
   - input : 사용자 입력을 받음, attribute를 통해 명시적으로 그룹화
-    ```
+   
+  ```
     <label for="input_name">Name:</label>
     <input id="input_name" type="text">
     ```
+  
 ## 추가내용
   - HTML, CSS, JS 관련 공식문서는 MDN을 통해서 확인
   - MDN > HTML elements reference (테그들의 설명과 예제, 각 섹션별로 테그가 나위어져 있음, 모든 브라우저에 적용가능한지 꼭 확인)
