@@ -103,4 +103,29 @@ categories: CSS
     ```
     - MDN의 CSS reference에서 자세한 설명 확인가능
     -[Game을 통해 재밌게 익히기](https://flukeout.github.io, "Game link")
-
+## HTML 실습코드
+```HTML
+     <!DOCTYPE html>
+     <html lang="en">
+     <head>
+         <meta charset="UTF-8">
+         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>Document</title>
+     </head>
+     <body>
+         <ol>
+             <li id="special">First</li>
+             <li>Second</li>
+         </ol>
+         <h1 id="special">Hello</h1>
+         <button>button 1</button>
+         <button>button 2</button>
+         <div class="red"></div>
+         <div class="blue"></div>
+         <a href="naver.com">Naver</a>
+         <a href="google.com">Google</a>
+         <a></a>
+     </body>
+     </html>
+```
