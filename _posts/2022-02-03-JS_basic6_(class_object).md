@@ -21,7 +21,9 @@ categories: JavaScript
     1. instance of a class
     2. created many times
     3. data in
+
 - - -
+
 1. Class declarations
     ```javascript
     // Object-oriented programming
