@@ -42,14 +42,14 @@ categories: JavaScript
     x -= y; 
     x *= y;
     x /= y;
-
+    ```
 5. Comparison operators
     ```javascript
     console.log(10 < 6); // less than
     console.log(10 <= 6); //less than or equal
     console.log(10 > 6) // greater than
     console.log(10 >= 6); //greater than or equal
-
+    ```
 6. Logical operators: ||(or), &&(and), !(not)
     ```javascript
     const value1 = false;
@@ -154,7 +154,7 @@ categories: JavaScript
             console.log('same all!');
             break
     }
-
+    ```
 11. Loops
     ```javascript
     //while loop, while the condition is truthy,
@@ -191,7 +191,7 @@ categories: JavaScript
             console.log(`i: ${1}, j:${j}`);
         }
     }
-
+   
     //break, continue
     //Q1. interate from 0 to 10 and print only even numbers(use continue)
     for(let i = 0; i < 11; i++){
@@ -231,3 +231,4 @@ categories: JavaScript
         }
         console.log(`number: ${i}`);
     }
+    ```
