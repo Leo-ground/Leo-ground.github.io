@@ -133,7 +133,7 @@ categories: JavaScript
     Article.printPublisher();
 
     //들어오는 data에 상관없이 동일한 값을 가질때 사용하며 메모리의 부담을 덜어준다.
-
+    ```
 5. Inheritance 상속과 다양성
     - a way for one class to extend another class.
     ```javascript
@@ -178,7 +178,7 @@ categories: JavaScript
     triangle.draw();
     console.log(triangle.getArea());
     }
-
+    ```
 6. Class checking: instanceOf
     ```javascript
     console.log(rectangle instanceof Rectangle); //true 
