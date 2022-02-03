@@ -95,7 +95,7 @@ categories: JavaScript
     console.log(user1.age); //호출은 .age로 함(_age가 아님)
     ```
 3. Fields (public, private)
-    - Too soon!
+- Too soon!
     ```javascript
     class Experiment {
         publicField = 2;
@@ -108,7 +108,7 @@ categories: JavaScript
     ```
 
 4. Static properties and methods
-    - Too soon!
+- Too soon!
     ```javascript
     class Article {
         // Class안에 있는 fields와 method들은 새로운 object를 만들때 마다
@@ -137,7 +137,7 @@ categories: JavaScript
     //들어오는 data에 상관없이 동일한 값을 가질때 사용하며 메모리의 부담을 덜어준다.
     ```
 5. Inheritance 상속과 다양성
-    - a way for one class to extend another class.
+- a way for one class to extend another class.
     ```javascript
     class Shape {
         constructor(width, height, color) {
