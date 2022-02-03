@@ -112,6 +112,7 @@ categories: JavaScript
     console.log('' === false); //false
     console.log(null == undefined); //true
     console.log(null === undefined); //false
+    ```
 
 8. Conditional operators: if
     ```javascript
