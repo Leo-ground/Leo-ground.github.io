@@ -128,6 +128,7 @@ categories: JavaScript
     ```
     
 - - -
+
 1. Function expression
     - a function declaration can be called earier than it is defiend.(hoisted)
     - a function expression is created when the execution reaches it.
@@ -143,6 +144,7 @@ categories: JavaScript
     printAgain();
     const sumAgain = sum; //위의 sum 함수
     console.log(sumAgain(1,3));
+    ```
 
 2. Callback function using function expression
     ```javascript
@@ -201,8 +203,10 @@ categories: JavaScript
      (function hello() {
          console.log('IIFE');
      })();
+    ```
 
 - - -
+
 - Fun quiz time
 - function calculate(command, a, b)
 - command: add, substract, divide, multiply, remainder
@@ -239,7 +243,9 @@ categories: JavaScript
     calculate('remainder',1,2);
     calculate('chuchu',1,2);
 ```
+
 - - -
+
 - Answer
 ```javascript
     function calculate(command, a, b) {
