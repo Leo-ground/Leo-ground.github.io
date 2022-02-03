@@ -12,7 +12,7 @@ categories: JavaScript
 
 2. Variable
     - 변수: 변경될 수 있는 값
-    1. let (added in ES6)
+    1. let (added in ES6), rw(read,write)
         ```javascript
         let name = 'leo'; //변수의 선언과 할당
         console.log(name);
@@ -60,7 +60,7 @@ categories: JavaScript
             }
             console.log(name); // leo 출력
         ```
-    3. Constant
+    3. Constant, r(read only)
         - 값을 한번 할당하면 절대 변하지 않는 값
         - 변수를 할당하면 해당 변수가 포인터로 값이 입력된 메모리를 가리키는데, constant사용시 이 포인터가 잠기게 되어 값 변경 안됨
         - Mutable data type(값이 계속 변경가능한 변수): let
@@ -72,6 +72,10 @@ categories: JavaScript
             //- reduce human mistakes
             const daysInWeek = 7;
             const maxNumber = 5;
+            
+            //Note!
+            //Immutable data types: premitive types, frozen objects (i.e. object.freeze())
+            //Mutable data types: all objects by default are mutable in JS
         ```
     4. Variable types
 
