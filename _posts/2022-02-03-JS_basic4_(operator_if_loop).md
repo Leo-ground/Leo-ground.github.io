@@ -1,6 +1,6 @@
 ---
 title: "JS_basic4_(operator_if_loop)"
-date: 2021-02-03 
+date: 2022-02-03 
 categories: JavaScript
 ---
 
