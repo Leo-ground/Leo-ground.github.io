@@ -60,7 +60,7 @@ categories: JavaScript
         console.log(`${message} by ${from}`);
     }
     showMessage('Hi!');
-
+    ```
 4. Rest parameters (added in ES6)
     ```javascript
     function printAll(...args){ //배열 parameter
@@ -78,7 +78,7 @@ categories: JavaScript
 
     }
     printAll('dream','coding','ellie');
-
+    ```
 5. Local scope
     - 밖에서는 안이 보이지 않고 안에서만 밖을 볼 수 있다.
     ```javascript
@@ -106,7 +106,7 @@ categories: JavaScript
     }
     const result = sum(1, 2); //3
     console.log(`sum: ${sum(1, 2)}`);
-
+    ```
 7. Early return, early exit
     ```javascript
     //bad
