@@ -238,3 +238,25 @@ categories: JavaScript
     calculate('remainder',1,2);
     calculate('chuchu',1,2);
 ```
+- - -
+- Answer
+```javascript
+    function calculate(command, a, b) {
+        switch(command){
+        case 'add':
+            return a + b;
+        case 'substract':
+            return a - b;
+        case 'divide':
+            return a / b;
+        case 'multiply':
+            return a * b;
+        case 'remainder':
+            return a % b;
+        default:
+             throw Error('unknown command');
+        }
+    }
+
+    console.log(calculate('add',1,2));
+```
