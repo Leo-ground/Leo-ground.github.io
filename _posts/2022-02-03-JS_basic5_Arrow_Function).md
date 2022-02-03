@@ -126,6 +126,7 @@ categories: JavaScript
         // long upgrade logic...
     }
     ```
+    
 - - -
 1. Function expression
     - a function declaration can be called earier than it is defiend.(hoisted)
