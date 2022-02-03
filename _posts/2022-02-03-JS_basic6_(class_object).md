@@ -53,6 +53,7 @@ categories: JavaScript
     console.log(leo.age); // 20
     leo.speak(); // leo: hello!
     ```
+
 2. Getter and setters
     ```javascript
     class User {
@@ -94,6 +95,7 @@ categories: JavaScript
     const user1 = new User('Steve', 'Job'. -1);
     console.log(user1.age); //호출은 .age로 함(_age가 아님)
     ```
+
 3. Fields (public, private)
 - Too soon!
     ```javascript
@@ -136,6 +138,7 @@ categories: JavaScript
 
     //들어오는 data에 상관없이 동일한 값을 가질때 사용하며 메모리의 부담을 덜어준다.
     ```
+
 5. Inheritance 상속과 다양성
 - a way for one class to extend another class.
     ```javascript
@@ -181,6 +184,7 @@ categories: JavaScript
     console.log(triangle.getArea());
     }
     ```
+
 6. Class checking: instanceOf
     ```javascript
     console.log(rectangle instanceof Rectangle); //true 
@@ -188,6 +192,6 @@ categories: JavaScript
     console.log(triangle instanceof Triangle); //true
     console.log(triangle instanceof Shape); //true
     console.log(triangle instanceof Object); //true
-    
     ```
+    
 - 참고 : MDN javaScript reference page: Built-ins
