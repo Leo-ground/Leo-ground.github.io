@@ -85,6 +85,8 @@ categories: JavaScript
     const fruits2 = ['paper', 'coconut'];
     const newFruits = fruits.concat(fruits2);
     console.log(newFruits);
+    ```
+    
 5. Searching
     ```javascript
     // find the index
