@@ -1,5 +1,5 @@
 ---
-title: "Linux"
+title: "Linux_deploy"
 date: 2021-04-05 
 categories: Deploy
 ---
