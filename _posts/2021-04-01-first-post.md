@@ -1,6 +1,6 @@
 ---
 title: "Start!!"
-date: 2021-04-01 11:08:28 -0400
+date: 2021-04-01
 categories: ##
 ---
 Thank you for visiting my blog.
