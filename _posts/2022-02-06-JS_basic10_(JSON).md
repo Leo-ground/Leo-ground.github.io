@@ -93,6 +93,7 @@ categories: JavaScript
     console.log(obj.birthDate.getDate());
     ```
 - - - 
+
 - 참고
 - JSON에 대해 조금더 공부를 하고 싶으시면: 
 - MDN ➡️ https://developer.mozilla.org/en-US/d...
