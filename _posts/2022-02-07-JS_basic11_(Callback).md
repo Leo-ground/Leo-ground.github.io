@@ -1,5 +1,5 @@
 ---
-title: "JS_basic10_(Callback)"
+title: "JS_basic11_(Callback)"
 date: 2022-02-07 
 categories: JavaScript
 ---
