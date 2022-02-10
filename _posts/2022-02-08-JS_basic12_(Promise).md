@@ -3,7 +3,10 @@ title: "JS_basic12_(Promise)"
 date: 2022-02-08 
 categories: JavaScript
 ---
+### 본 내용은 Dream Coding Academy의 강의 내용입니다 [Go to Dream Coding][dreamCodingLink]  
 
+[dreamCodingLink]:  https://academy.dream-coding.com "Go Dream Coding"
+- - - 
 ### 11.  프로미스 개념부터 활용까지 JavaScript Promise
 - JavaScript에서 제공하는 비동기를 간편하게 처리할 수 있게 도와주는 Object
 - 정해진 장시간의 기능을 수행하고나서 정상적으로 기능이 수행되어졌다면 성공의 메세지와 함께 처리된 결과값을 전달
