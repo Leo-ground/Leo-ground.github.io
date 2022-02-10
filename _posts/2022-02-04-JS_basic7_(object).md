@@ -3,7 +3,10 @@ title: "JS_basic7_(class_object)"
 date: 2022-02-04 
 categories: JavaScript
 ---
+### 본 내용은 Dream Coding Academy의 강의 내용입니다 [Go to Dream Coding][dreamCodingLink]  
 
+[dreamCodingLink]:  https://academy.dream-coding.com "Go Dream Coding"
+- - - 
 ### 7. 오브젝트 넌 뭐니? 
 1. Literals and properties
     ```javascript
