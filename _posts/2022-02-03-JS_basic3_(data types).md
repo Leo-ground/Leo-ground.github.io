@@ -78,7 +78,6 @@ categories: JavaScript
             //Mutable data types: all objects by default are mutable in JS
         ```
     4. Variable types
-
         ```javascript
             //primitive- single item: number, string, boolean, null, undefined, symbol
             //object- box container
