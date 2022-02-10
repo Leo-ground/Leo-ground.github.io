@@ -3,7 +3,10 @@ title: "JS_basic5_Arrow_Function)"
 date: 2022-02-03 
 categories: JavaScript
 ---
+### 본 내용은 Dream Coding Academy의 강의 내용입니다 [Go to Dream Coding][dreamCodingLink]  
 
+[dreamCodingLink]:  https://academy.dream-coding.com "Go Dream Coding"
+- - - 
 # 5. Arrow Function은 무엇인가? 함수의 선언과 표현
 - function 이란: input (변수)를 받아서 ouput (return값)을 return해줌
 - function의 이름을 보면 해당 기능을 알 수있게 지어야 한다.
