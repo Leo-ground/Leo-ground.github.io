@@ -3,7 +3,10 @@ title: "HTML_Basic"
 date: 2022-02-01 
 categories: HTML
 ---
+### 본 내용은 Dream Coding Academy의 강의 내용입니다 [Go to Dream Coding][dreamCodingLink]  
 
+[dreamCodingLink]:  https://academy.dream-coding.com "Go Dream Coding"
+- - - 
 ## HTML_Basic
 1. Mark up 언어 : Tag를 이용해 구조적으로 작성된 언어
 2. HTML 구조
