@@ -3,7 +3,10 @@ title: "JS_Quiz_(array)"
 date: 2022-02-05 
 categories: JavaScript
 ---
+### 본 내용은 Dream Coding Academy의 강의 내용입니다 [Go to Dream Coding][dreamCodingLink]  
 
+[dreamCodingLink]:  https://academy.dream-coding.com "Go Dream Coding"
+- - - 
 ```
 
   // Q1. make a string out of an array
