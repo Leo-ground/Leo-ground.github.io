@@ -167,19 +167,19 @@ categories: JavaScript
             - static type언어: 타입을 선언할때 같이 선언
         - 이런 dynamic 타입은 위험해 주의해야한다.
         ```javascript
-        let text = 'hello'; //string
-        console.log(`value: ${text}, type: ${typeof text}`);
-        text = 1; //number
-        console.log(`value: ${text}, type: ${typeof text}`);
+            let text = 'hello'; //string
+            console.log(`value: ${text}, type: ${typeof text}`);
+            text = 1; //number
+            console.log(`value: ${text}, type: ${typeof text}`);
 
-        text = '7'+5; 
-        //5를 string으로 간주해서 합한다: 75
-        console.log(`value: ${text}, type: ${typeof text}`);
+            text = '7'+5; 
+            //5를 string으로 간주해서 합한다: 75
+            console.log(`value: ${text}, type: ${typeof text}`);
 
-        
-        text = '8'/'2'; 
-        //문자는 나눌수가 없어 숫자로 간주해서 출력: 4, number
-        console.log(`value: ${text}, type: ${typeof text}`);
 
-        //처음의 타입이 string이기때문에 string인줄 알고 string관련 함수를 사용할경우 에러가 발생하게 된다
-        
+            text = '8'/'2'; 
+            //문자는 나눌수가 없어 숫자로 간주해서 출력: 4, number
+            console.log(`value: ${text}, type: ${typeof text}`);
+
+            //처음의 타입이 string이기때문에 string인줄 알고 string관련 함수를 사용할경우 에러가 발생하게 된다
+        ```
