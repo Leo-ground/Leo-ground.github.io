@@ -3,7 +3,10 @@ title: "JS_basic10_(JSON)"
 date: 2022-02-06 
 categories: JavaScript
 ---
+### 본 내용은 Dream Coding Academy의 강의 내용입니다 [Go to Dream Coding][dreamCodingLink]  
 
+[dreamCodingLink]:  https://academy.dream-coding.com "Go Dream Coding"
+- - - 
 ### 10.  JSON 개념 정리 와 활용방법
 - Browser위에서 동작하는 웹사이트 or 웹어플리케이션 Clint들이 Server와 통신 할 수 있게 하는 것: HTTP (Hypertext Transfer Protocal)
 - HTTP 프로토콜은 Client가 Server로 request (데이터 요청)
