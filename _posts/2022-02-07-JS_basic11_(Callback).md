@@ -3,7 +3,10 @@ title: "JS_basic11_(Callback)"
 date: 2022-02-07 
 categories: JavaScript
 ---
+### 본 내용은 Dream Coding Academy의 강의 내용입니다 [Go to Dream Coding][dreamCodingLink]  
 
+[dreamCodingLink]:  https://academy.dream-coding.com "Go Dream Coding"
+- - - 
 ### 11.  비동기 처리의 시작 콜백 이해하기, 콜백 지옥 체험 😱 JavaScript Callback
 
 1. 동기와 비동기
