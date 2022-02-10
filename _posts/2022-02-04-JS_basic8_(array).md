@@ -3,7 +3,10 @@ title: "JS_basic8_(array)"
 date: 2022-02-04 
 categories: JavaScript
 ---
+### 본 내용은 Dream Coding Academy의 강의 내용입니다 [Go to Dream Coding][dreamCodingLink]  
 
+[dreamCodingLink]:  https://academy.dream-coding.com "Go Dream Coding"
+- - - 
 ### 8. 자바스크립트 배열 개념과 APIs 총정리
 - 비슷한 데이터들을 한 곳에 모으는것: 자료구조
 - 어떤방식으로 어떤형식으로 데이터를 담는지에 따라 나뉨
