@@ -3,7 +3,10 @@ title: "JS_basic3_(data types)"
 date: 2022-02-03 
 categories: JavaScript
 ---
+### 본 내용은 Dream Coding Academy의 강의 내용입니다 [Go to Dream Coding][dreamCodingLink]  
 
+[dreamCodingLink]:  https://academy.dream-coding.com "Go Dream Coding"
+- - - 
 # 3. 데이터타입, data types, let vs var, hoisting 
 
 1. 프로그래밍의 3가지 중점(입력, 연산, 출력)
