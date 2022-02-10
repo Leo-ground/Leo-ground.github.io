@@ -3,7 +3,10 @@ title: "JS_basic13_(async_await)"
 date: 2022-02-09 
 categories: JavaScript
 ---
+### 본 내용은 Dream Coding Academy의 강의 내용입니다 [Go to Dream Coding][dreamCodingLink]  
 
+[dreamCodingLink]:  https://academy.dream-coding.com "Go Dream Coding"
+- - - 
 ### 13. 비동기의 꽃 JavaScript async 와 await 그리고 유용한 Promise APIs
 - promise를 좀더 간결하고 간편하고 동기적으로 실행되는것 처럼 보이게 만들어주는 것
 - .then으로 계속 연결하면 코드가 난잡해진다
