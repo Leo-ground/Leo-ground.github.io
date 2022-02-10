@@ -3,7 +3,10 @@ title: "JS_basic4_(operator_if_loop)"
 date: 2022-02-03 
 categories: JavaScript
 ---
+### 본 내용은 Dream Coding Academy의 강의 내용입니다 [Go to Dream Coding][dreamCodingLink]  
 
+[dreamCodingLink]:  https://academy.dream-coding.com "Go Dream Coding"
+- - - 
 # 4. 코딩의 기본 operator, if, for loop
 
 1. String concatenation
