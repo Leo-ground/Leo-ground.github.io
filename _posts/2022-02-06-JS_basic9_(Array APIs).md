@@ -3,7 +3,10 @@ title: "JS_basic9_(Array APIs)"
 date: 2022-02-06 
 categories: JavaScript
 ---
+### 본 내용은 Dream Coding Academy의 강의 내용입니다 [Go to Dream Coding][dreamCodingLink]  
 
+[dreamCodingLink]:  https://academy.dream-coding.com "Go Dream Coding"
+- - - 
 ```javascript
   // Q1. make a string out of an array
 
