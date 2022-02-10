@@ -3,7 +3,10 @@ title: "JS_basic6_(class_object)"
 date: 2022-02-03 
 categories: JavaScript
 ---
+### 본 내용은 Dream Coding Academy의 강의 내용입니다 [Go to Dream Coding][dreamCodingLink]  
 
+[dreamCodingLink]:  https://academy.dream-coding.com "Go Dream Coding"
+- - - 
 ### 6. 클래스와 오브젝트의 차이점(class vs object), 객체지향 언어 클래스 정리
 
 1. class
